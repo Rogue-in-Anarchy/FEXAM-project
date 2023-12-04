@@ -1,20 +1,28 @@
-<ion-header [translucent]="true">
+<!-- <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>
       Blank
     </ion-title>
   </ion-toolbar>
-</ion-header>
+</ion-header> -->
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
+  <!-- <ion-header collapse="condense">
     <ion-toolbar>
       <ion-title size="large">Blank</ion-title>
     </ion-toolbar>
-  </ion-header>
+  </ion-header> -->
 
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+  <div class="text-center mt-32" id="container">
+    <img src="../../assets/FEXAM-03.png" alt=""  class="mx-auto">
+    <strong class="brand mt-5">FEX<strong class="text-[#1BB55C]">AM</strong> </strong>
+    <div class="justify-center mt-5">
+      <p >FEXAM is a facial examination app which <br> detects if an image is morphed <br> or genuine</p>
+    </div>
+ 
+    <div class="mt-20">
+      <button class="rounded-xl px-9 py-5 bg-[#1BB55C] w-80 text-2xl" (click)="getStarted()">Get Started</button>
+    </div>
   </div>
+
 </ion-content>
