@@ -1,0 +1,7 @@
+{
+  "name": "FEXAM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
