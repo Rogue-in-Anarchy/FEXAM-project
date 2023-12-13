@@ -29,6 +29,8 @@
     "@capacitor/keyboard": "5.0.6",
     "@capacitor/status-bar": "5.0.6",
     "@ionic/angular": "^7.0.0",
+    "@tensorflow/tfjs": "^4.14.0",
+    "@tensorflow/tfjs-node": "3.1.0",
     "ionicons": "^7.0.0",
     "ngx-tfjs": "^0.0.6",
     "rxjs": "~7.8.0",
@@ -67,5 +69,31 @@
     "ts-node": "^8.3.0",
     "typescript": "~5.2.2"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic project",
+  "browser": {
+    "fs": false,
+    "fs/promises": false,
+    "path": false,
+    "os": false,
+    "url": false,
+    "child_process": false,
+    "dns": false,
+    "net": false,
+    "stream": false,
+    "crypto": false,
+    "process": false,
+    "https": false,
+    "http": false,
+    "zlib": false,
+    "constants": false,
+    "timers": false,
+    "promises": false,
+    "aws-sdk": false,
+    "querystring": false,
+    "timers/promises": false,
+    "tls": false,
+    "assert": false,
+    "util": false,
+    "node-pre-gyp": false
+  }
 }
