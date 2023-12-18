@@ -79,11 +79,11 @@
       },
       {
         "file": ".nx/cache/file-map.json",
-        "hash": "10205808993359852941"
+        "hash": "16041134379949260265"
       },
       {
         "file": ".nx/cache/lockfile.hash",
-        "hash": "14251024583142650146"
+        "hash": "4720014946011765831"
       },
       {
         "file": ".nx/cache/parsed-lock-file.json",
@@ -331,11 +331,11 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "11644800223533144387"
+        "hash": "3397468383503059277"
       },
       {
         "file": "package.json",
-        "hash": "15707615263640627554"
+        "hash": "3359473975487122400"
       },
       {
         "file": "src/app/app-routing.module.ts",
@@ -355,15 +355,15 @@
       },
       {
         "file": "src/app/app.component.ts",
-        "hash": "7568000867965602079"
+        "hash": "8897730655778101132"
       },
       {
         "file": "src/app/app.module.ts",
-        "hash": "10361069804075852270"
+        "hash": "9109834532484104771"
       },
       {
         "file": "src/app/examiner/examiner-routing.module.ts",
-        "hash": "13907842117676177641"
+        "hash": "3063588715422636565"
       },
       {
         "file": "src/app/examiner/examiner.module.ts",
@@ -371,7 +371,7 @@
       },
       {
         "file": "src/app/examiner/examiner.page.html",
-        "hash": "4756660976000507347"
+        "hash": "5270316112360152248"
       },
       {
         "file": "src/app/examiner/examiner.page.scss",
@@ -383,7 +383,7 @@
       },
       {
         "file": "src/app/examiner/examiner.page.ts",
-        "hash": "12703241562027454007"
+        "hash": "7110506223987935637"
       },
       {
         "file": "src/app/home/home-routing.module.ts",
@@ -439,7 +439,7 @@
       },
       {
         "file": "src/app/services/inference.service.ts",
-        "hash": "18002690209263428603"
+        "hash": "16559099093417651532"
       },
       {
         "file": "src/assets/FEXAM-03.png",
@@ -503,7 +503,7 @@
       },
       {
         "file": "tsconfig.app.json",
-        "hash": "4386202898042123369"
+        "hash": "7625201416965390059"
       },
       {
         "file": "tsconfig.json",
